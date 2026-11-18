@@ -1,4 +1,3 @@
-
 package com.app.simplepaint;
 
 import android.content.Context;
